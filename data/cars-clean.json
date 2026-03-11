@@ -1,0 +1,652 @@
+{
+  "total": 24,
+  "makes": [
+    "BYD",
+    "Chery",
+    "Fiat",
+    "Ford",
+    "Haval",
+    "Hyundai",
+    "Isuzu",
+    "Jaecoo",
+    "Kia",
+    "Leapmotor",
+    "Lexus",
+    "MG",
+    "MINI",
+    "Mazda",
+    "Mercedes-Benz",
+    "Tesla",
+    "Toyota"
+  ],
+  "cars": [
+    {
+      "id": "34411",
+      "title": "2025 Tesla Model Y",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=34411",
+      "variant_names": [
+        "Tesla Model Y AWD YS5LDB SUV Auto (released 2025)",
+        "Tesla Model Y YS5MDB SUV Auto (released 2025)",
+        "Tesla Model Y Performance YS5MDP SUV Auto (released 2025)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat SUV",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "drivetrain": "4WD",
+          "annual_fuel_cost": "$796",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 158,
+          "electric_range_km": 551
+        }
+      ],
+      "year": 2025,
+      "make": "Tesla",
+      "model": "Model Y"
+    },
+    {
+      "id": "37335",
+      "title": "2026 Jaecoo J5 EV 155kW",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=37335",
+      "variant_names": [
+        "Hatch Auto (released 2026)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat Hatch",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$701",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 139,
+          "electric_range_km": 461
+        }
+      ],
+      "year": 2026,
+      "make": "Jaecoo",
+      "model": "J5 EV 155kW"
+    },
+    {
+      "id": "36958",
+      "title": "2025 Chery E5",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=36958",
+      "variant_names": [
+        "5 E5 155kW SUV Auto (released 2025)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat SUV",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$665",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 132,
+          "electric_range_km": 505
+        }
+      ],
+      "year": 2025,
+      "make": "Chery",
+      "model": "E5"
+    },
+    {
+      "id": "31800",
+      "title": "2021 Toyota RAV4",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=31800",
+      "variant_names": [
+        "Toyota RAV4 GX SUV CVT (released 2021)",
+        "CRUISER SUV CVT (released 2021)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat SUV",
+          "annual_fuel_cost": "$1198",
+          "energy_whkm": 115
+        }
+      ],
+      "year": 2021,
+      "make": "Toyota",
+      "model": "RAV4"
+    },
+    {
+      "id": "26088",
+      "title": "2015 Mazda CX-3",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=26088",
+      "variant_names": [
+        "3  Wagon Manual (released 2015)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat Wagon",
+          "transmission": "6 spd Manual",
+          "annual_fuel_cost": "$1605",
+          "energy_whkm": 154
+        }
+      ],
+      "year": 2015,
+      "make": "Mazda",
+      "model": "CX-3"
+    },
+    {
+      "id": "30652",
+      "title": "2020 Isuzu D-MAX RG",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=30652",
+      "variant_names": [
+        "MAX RG 4x4 CREW CAB MT Utility Manual (released 2020)",
+        "MAX RG 4x4 CREW CAB MT Utility Manual (released 2020)",
+        "MAX RG 4x4 CREW CAB MT Utility Manual (released 2020)",
+        "chassis Manual (released 2020)",
+        "chassis Manual (released 2020)",
+        "chassis Manual (released 2020)",
+        "MAX RG 4x4 CREW CAB MT Utility Manual (released 2020)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat Utility",
+          "transmission": "6 spd Manual",
+          "drivetrain": "4WD",
+          "annual_fuel_cost": "$2005",
+          "energy_whkm": 222
+        }
+      ],
+      "year": 2020,
+      "make": "Isuzu",
+      "model": "D-MAX RG"
+    },
+    {
+      "id": "37293",
+      "title": "2025 Leapmotor B10",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=37293",
+      "variant_names": [
+        "Leapmotor B10 Style SUV Auto (released 2025)",
+        "Leapmotor B10 Design LR SUV Auto (released 2025)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat SUV",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$706",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 140,
+          "electric_range_km": 442
+        }
+      ],
+      "year": 2025,
+      "make": "Leapmotor",
+      "model": "B10"
+    },
+    {
+      "id": "30321",
+      "title": "2019 Toyota Corolla",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=30321",
+      "variants": [
+        {
+          "body": "4 door, 5 seat Hatch",
+          "annual_fuel_cost": "$892",
+          "energy_whkm": 103
+        }
+      ],
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Corolla"
+    },
+    {
+      "id": "33637",
+      "title": "2024 Toyota Hilux",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=33637",
+      "variant_names": [
+        "Toyota Hilux SR5 48V Utility Auto (released 2024)",
+        "Toyota Hilux SR 48V Utility Auto (released 2024)",
+        "chassis Auto (released 2024)",
+        "chassis Auto (released 2024)",
+        "Toyota Hilux Rogue 48V Utility Auto (released 2024)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat Utility",
+          "transmission": "6 spd Auto",
+          "drivetrain": "4WD",
+          "annual_fuel_cost": "$1875",
+          "energy_whkm": 208
+        }
+      ],
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Hilux"
+    },
+    {
+      "id": "34152",
+      "title": "2024 Toyota PRADO",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=34152",
+      "variant_names": [
+        "Toyota PRADO  Wagon Auto (released 2024)",
+        "Toyota PRADO  Wagon Auto (released 2024)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 7 seat Wagon",
+          "transmission": "8 spd Auto",
+          "drivetrain": "4WD",
+          "annual_fuel_cost": "$1979",
+          "energy_whkm": 219
+        }
+      ],
+      "year": 2024,
+      "make": "Toyota",
+      "model": "PRADO"
+    },
+    {
+      "id": "36847",
+      "title": "2022 BYD ATTO 3",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=36847",
+      "variant_names": [
+        "A (released 2022)",
+        "A (released 2022)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat Wagon",
+          "fuel_type": "Pure Electric",
+          "annual_fuel_cost": "$746",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 148,
+          "electric_range_km": 410
+        }
+      ],
+      "year": 2022,
+      "make": "BYD",
+      "model": "ATTO 3"
+    },
+    {
+      "id": "32483",
+      "title": "2023 MG MG4",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=32483",
+      "variant_names": [
+        "MG MG4 64kWh EV RWD  Hatch Auto (released 2023)",
+        "MG MG4 64kWh EV RWD LUX  Hatch Auto (released 2023)",
+        "MG MG4 77kWh EV RWD Hatch Auto (released 2023)",
+        "MG MG4 51kWh EV RWD  Hatch Auto (released 2023)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat Hatch",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$655",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 130,
+          "electric_range_km": 535
+        }
+      ],
+      "year": 2023,
+      "make": "MG",
+      "model": "MG4"
+    },
+    {
+      "id": "33962",
+      "title": "2024 Mercedes-Benz EQB",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=33962",
+      "variant_names": [
+        "Wagon Auto (released 2024)",
+        "Benz EQB EQB 250  Wagon Auto (released 2022)",
+        "Benz EQB EQB 250  Wagon Auto (released 2022)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 7 seat Wagon",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$741",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 147,
+          "electric_range_km": 564
+        }
+      ],
+      "year": 2024,
+      "make": "Mercedes-Benz",
+      "model": "EQB"
+    },
+    {
+      "id": "35609",
+      "title": "2024 MINI Aceman",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=35609",
+      "variant_names": [
+        "MINI Aceman E Sedan Sedan Auto (released 2024)",
+        "MINI Aceman E Wagon Auto (released 2024)",
+        "MINI Aceman SE Wagon Auto (released 2024)",
+        "MINI Aceman SE Sedan Sedan Auto (released 2024)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat Sedan",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$711",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 141,
+          "electric_range_km": 300
+        }
+      ],
+      "year": 2024,
+      "make": "MINI",
+      "model": "Aceman"
+    },
+    {
+      "id": "33960",
+      "title": "2024 Mercedes-Benz EQA Class",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=33960",
+      "variant_names": [
+        "Wagon Auto (released 2024)",
+        "Benz EQA Class EQA250 Wagon Auto (released 2021)",
+        "Benz EQA Class EQA250 Wagon Auto (released 2021)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat Wagon",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$711",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 141,
+          "electric_range_km": 578
+        }
+      ],
+      "year": 2024,
+      "make": "Mercedes-Benz",
+      "model": "EQA Class"
+    },
+    {
+      "id": "34051",
+      "title": "2024 Hyundai Tucson",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=34051",
+      "variant_names": [
+        "0 CRDi SUV Auto (released 2024)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat SUV",
+          "transmission": "8 spd Auto",
+          "drivetrain": "4WD",
+          "annual_fuel_cost": "$1641",
+          "energy_whkm": 182
+        }
+      ],
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Tucson"
+    },
+    {
+      "id": "32344",
+      "title": "2023 Ford Everest",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=32344",
+      "variant_names": [
+        "Ford Everest Sport RWD SUV Auto (released 2023)",
+        "Ford Everest Ambiente RWD SUV Auto (released 2022)",
+        "Ford Everest Ambiente RWD SUV Auto (released 2022)",
+        "Ford Everest Trend RWD SUV Auto (released 2022)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 7 seat SUV",
+          "transmission": "10 spd Auto",
+          "annual_fuel_cost": "$1849",
+          "energy_whkm": 205
+        }
+      ],
+      "year": 2023,
+      "make": "Ford",
+      "model": "Everest"
+    },
+    {
+      "id": "32374",
+      "title": "2023 Fiat 500e",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=32374",
+      "variant_names": [
+        "Fiat 500e FWD 87 kW 42 kWh Hatch Auto (released 2023)",
+        "7 kW 42 kWh FWD ELECTRIC Hatch Auto (released 2023)"
+      ],
+      "variants": [
+        {
+          "body": "2 door, 4 seat Hatch",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$726",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 144,
+          "electric_range_km": 311
+        }
+      ],
+      "year": 2023,
+      "make": "Fiat",
+      "model": "500e"
+    },
+    {
+      "id": "28860",
+      "title": "2017 Mazda CX-5",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=28860",
+      "variant_names": [
+        "5  SUV Auto (released 2017)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat SUV",
+          "transmission": "6 spd Auto",
+          "drivetrain": "4WD",
+          "annual_fuel_cost": "$1562",
+          "energy_whkm": 173
+        }
+      ],
+      "year": 2017,
+      "make": "Mazda",
+      "model": "CX-5"
+    },
+    {
+      "id": "34045",
+      "title": "2022 Haval Jolion",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=34045",
+      "variant_names": [
+        "5T DHT HEV 2WD SUV Auto (released 2022)",
+        "5L 3DHT HEV 2WD SUV Auto (released 2024)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat SUV",
+          "transmission": "3 spd Auto",
+          "annual_fuel_cost": "$1274",
+          "energy_whkm": 122
+        }
+      ],
+      "year": 2022,
+      "make": "Haval",
+      "model": "Jolion"
+    },
+    {
+      "id": "35606",
+      "title": "2025 MG MGS6 EV",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=35606",
+      "variant_names": [
+        "MG MGS6 EV  77kWh EV RWD SUV Auto (released 2025)",
+        "2 kWh RWD SUV Auto (released 2025)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat SUV",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$731",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 145,
+          "electric_range_km": 605
+        }
+      ],
+      "year": 2025,
+      "make": "MG",
+      "model": "MGS6 EV"
+    },
+    {
+      "id": "32358",
+      "title": "2023 Lexus UX 300e",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=32358",
+      "variant_names": [
+        "Lexus UX 300e  Hatch Auto (released 2023)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat Hatch",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$645",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 128,
+          "electric_range_km": 560
+        }
+      ],
+      "year": 2023,
+      "make": "Lexus",
+      "model": "UX 300e"
+    },
+    {
+      "id": "36874",
+      "title": "2025 MINI JCW E",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=36874",
+      "variant_names": [
+        "MINI JCW E Hatch Hatch Auto (released 2025)"
+      ],
+      "variants": [
+        {
+          "body": "2 door, 4 seat Hatch",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$696",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 138,
+          "electric_range_km": 400
+        }
+      ],
+      "year": 2025,
+      "make": "MINI",
+      "model": "JCW E"
+    },
+    {
+      "id": "37394",
+      "title": "2026 Kia EV4",
+      "specs": {
+        "co2_gkm": 0,
+        "fuel_l100km": 1.0
+      },
+      "url": "https://www.greenvehicleguide.gov.au/Vehicle/ViewMatchingVariants?vehicleDisplayId=37394",
+      "variant_names": [
+        "Kia EV4 Air RWD Standard Range Sedan Auto (released 2026)",
+        "Kia EV4 EV4 Earth Long Range Sedan Auto (released 2026)",
+        "Line Long Range Sedan Auto (released 2026)"
+      ],
+      "variants": [
+        {
+          "body": "4 door, 5 seat Sedan",
+          "fuel_type": "Pure Electric",
+          "transmission": "1 spd Auto",
+          "annual_fuel_cost": "$721",
+          "emissions_standard": "Pure EV",
+          "energy_whkm": 143,
+          "electric_range_km": 456
+        }
+      ],
+      "year": 2026,
+      "make": "Kia",
+      "model": "EV4"
+    }
+  ]
+}

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 };
 
 export default function CarsPage() {
-  const cars = carsData.cars.sort((a: any, b: any) => a.make.localeCompare(b.make));
+  const cars = carsData.cars.sort((a: any, b: any) => (a.make || "").localeCompare(b.make || ""));
 
   return (
     <div>

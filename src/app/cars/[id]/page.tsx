@@ -26,12 +26,24 @@ export default async function CarPage({ params }: Props) {
 
   const v = car.variants?.[0] || {};
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Car",
+    name: car.title,
+    brand: { "@type": "Brand", name: car.make },
+    fuelType: v.fuel_type || undefined,
+    driveWheelConfiguration: v.drivetrain || undefined,
+    fuelConsumption: car.specs?.fuel_l100km ? `${car.specs.fuel_l100km} L/100km` : undefined,
+    url: `https://cars.rollersoft.com.au/cars/${id}`,
+  };
+
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <div className="breadcrumbs text-sm mb-4">
         <ul>
           <li><Link href="/">Home</Link></li>
-          <li><Link href="/makes/{car.make?.toLowerCase()}">{car.make}</Link></li>
+          <li><Link href={`/makes/${car.make?.toLowerCase()}`}>{car.make}</Link></li>
           <li>{car.title}</li>
         </ul>
       </div>
